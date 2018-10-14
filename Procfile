@@ -1,1 +1,1 @@
-worker: python AT_Demo.py
+web: python AT_Demo.py
